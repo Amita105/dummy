@@ -1,0 +1,21 @@
+folder local
+
+repository git hub
+
+cmd:
+git init
+git user-name email cmd
+
+local vsc : 
+first.txt 
+git add 
+git commit
+
+
+remote adding
+git remote add origin https://github.com/Amita105/dummy.git
+
+git push --set-upstream origin master
+
+
+
